@@ -1,2 +1,2 @@
 print("Hello, Git! part 2")
-print("Version 23")
+print("Version 24")
